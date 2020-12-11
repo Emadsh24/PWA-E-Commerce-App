@@ -1,5 +1,7 @@
 # ElectronicStore
+![ElectronicStore](https://github.com/Emadsh24/PWA-E-Commerce-App/blob/main/store.jpg "ElectronicStore")
 
+https://github.com/Emadsh24/PWA-E-Commerce-App/blob/main/store.jpg
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
 ## Development server
